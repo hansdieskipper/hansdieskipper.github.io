@@ -1,3 +1,3 @@
 # Lesse
 
-1. [Herhaling](https://hansdieskipper.github.io/herhaling.md)
+1. [Herhaling](herhaling.md)
